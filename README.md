@@ -2,7 +2,9 @@
 This repository is the official implementation of ["Centralized Model and Exploration Policy for Multi-Agent RL"](https://arxiv.org/abs/2107.06434v2)
 
 ## Requirements
+TODO
 ## Training
+TODO
 ## Cite
 ```
 @inproceedings{zhang2021centralized,
